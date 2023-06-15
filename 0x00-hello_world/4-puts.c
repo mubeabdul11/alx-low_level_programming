@@ -1,10 +1,11 @@
-#include <stdio.h> 
+#include <stdio.h>
+
 /**
- * main - A program that prints with a new line with pust function
+ * main - A program that prints a line with pusts function
  * Return: 0 (Success)
  */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle")
+puts("Programming is like building a multilingual puzzle")
 return (0);
 }
