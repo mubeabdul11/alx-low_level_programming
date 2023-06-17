@@ -1,1 +1,0 @@
-Variables of readme
